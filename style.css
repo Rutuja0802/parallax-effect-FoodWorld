@@ -1,0 +1,44 @@
+*{
+    margin: 0%;text-align: center;
+}
+#main
+    {background: linear-gradient(45deg lightgreen red);}
+#header{
+    background-color: black;width: max-content; 
+}
+img{
+    border-radius: 10px;box-shadow: 10px black;
+}
+#brand{
+    background-color: black; float: left;text-align: center;margin:auto;padding: ;
+padding: 40px;line-height: 90%;
+
+}
+h1{
+    color: cornsilk;
+}
+
+#menu{
+    float: right;text-align: center;margin:auto; background-color: black;color:cornsilk;
+padding: 40PX;line-height: 90%;padding-right: 1700PX; 
+}
+h3{
+    background:linear-gradient(45deg,limegreen,red);padding: 15px;color:wheat;border-radius: 50%;width: 500px;margin:10px auto
+}
+
+td{
+text-align: center;border-radius: 40%;
+}
+#burger{
+    background: linear-gradient(red black);border-radius: 50%;
+}
+#drinks{
+    background: linear-gradient(red black); border-radius: 50%;
+}
+
+#footer{
+    background: black;padding: 20px;color: cornsilk;margin-top: 50px;
+}
+
+
+
